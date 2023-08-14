@@ -6,5 +6,5 @@
 
 ❓ You can ask me questions about web application security, Bug Bounty, and Vulnerability Research.
 
-⌨️ In my profile, you can find some of the exploits I have developed, the ones I have coded with Django, and the tools and modules I have written in Python.
+⌨️ In my profile, you can find some of the exploits I have developed, the ones I have coded with Django, and the tools and modules I have written in Python and Go.
 
